@@ -5,8 +5,8 @@ certifi==2024.2.2
 charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
-Flask==3.0.3
-Flask-Cors==4.0.1
+Flask
+Flask-Cors
 flatbuffers==24.3.25
 gast==0.5.4
 google-pasta==0.2.0
@@ -37,7 +37,7 @@ rich==13.7.1
 six==1.16.0
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
-tensorflow==2.16.1
+tensorflow
 tensorflow-intel==2.16.1
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
